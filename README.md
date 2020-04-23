@@ -13,4 +13,4 @@ I wanted to keep track of all helpful links I come across that aid in learning t
 - [Metasploit Unleashed by Offensive Security](https://www.offensive-security.com/metasploit-unleashed/)
 
 ## Windows
-- [Windows Internals Courses by Pavel Yosifovich](https://app.pluralsight.com/profile/author/pavel-yosifovich)
+- [Windows Internals Courses by Pavel Yosifovich (Not Free; Pluralsight)](https://app.pluralsight.com/profile/author/pavel-yosifovich)
