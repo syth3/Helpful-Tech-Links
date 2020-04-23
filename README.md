@@ -11,6 +11,7 @@ I wanted to keep track of all helpful links I come across that aid in learning t
 
 ## Offensive Cyber
 - [Metasploit Unleashed by Offensive Security](https://www.offensive-security.com/metasploit-unleashed/)
+- [Awesome Windows Red Team List](https://github.com/marcosValle/awesome-windows-red-team)
 
 ## Windows
 - [Windows Internals Courses by Pavel Yosifovich (Not Free; Pluralsight)](https://app.pluralsight.com/profile/author/pavel-yosifovich)
