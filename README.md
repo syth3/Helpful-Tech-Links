@@ -18,4 +18,4 @@ I wanted to keep track of all helpful links I come across that aid in learning t
 - [Awesome Windows Red Team List](https://github.com/marcosValle/awesome-windows-red-team)
 
 ## Miscellaneous
-[Scott Brink Resources](https://github.com/sebrink/resources)
+- [Scott Brink Resources](https://github.com/sebrink/resources)
