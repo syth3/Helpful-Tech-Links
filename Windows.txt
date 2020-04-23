@@ -1,2 +1,0 @@
-https://app.pluralsight.com/profile/author/pavel-yosifovich
-https://github.com/marcosValle/awesome-windows-red-team
